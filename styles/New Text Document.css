@@ -1,0 +1,26 @@
+body{
+    background-color:#6D23E3
+}
+
+p, th{ 
+    font-family: 'Asap', sans-serif;
+    }
+
+h1,h2,p{
+    color:#0CCAEE;
+}
+h1, h2{
+    font-family: 'Asap', sans-serif;
+}
+P{
+    font-size: 20px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+a,h3{
+    color: #FFFFFF
+}
