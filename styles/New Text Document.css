@@ -1,5 +1,5 @@
 body{
-    background-color:#6D23E3
+    background: linear-gradient(to right,#0CCAEE, #25B814)
 }
 
 p, th{ 
@@ -7,7 +7,7 @@ p, th{
     }
 
 h1,h2,p{
-    color:#0CCAEE;
+    color:#F29C08;
 }
 h1, h2{
     font-family: 'Asap', sans-serif;
@@ -23,4 +23,26 @@ h2{
 }
 a,h3{
     color: #FFFFFF
+}
+.button {
+    background-color: #E0EE08;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    border-radius: 15px;
+    display: inline-block;
+    font-style: normal;
+}
+.outline {
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    text-align: center;
+    vertical-align: top;
+    padding: 1.5%;
 }
